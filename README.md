@@ -6,6 +6,7 @@
 
 ---
 
-Stack Overflow related topic:
+Stack Overflow related topics:
 
-- [How can I read a file in a swift playground](http://stackoverflow.com/questions/24245916/how-can-i-read-a-file-in-a-swift-playground/43701112#43701112)
+- [How to save an array as a json file in Swift?](http://stackoverflow.com/a/43727346/1966109)
+- [How can I read a file in a swift playground](http://stackoverflow.com/a/43701112/1966109)
